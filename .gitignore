@@ -1,0 +1,19 @@
+# frontend
+frontend/node_modules/
+
+# backend
+backend/target/
+
+# build files
+build/
+
+# environment
+.env
+
+# IDE files
+.metadata/
+.vscode/
+.idea/
+
+# logs
+*.log
